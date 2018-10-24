@@ -1,0 +1,11 @@
+compute-b20-46.deepthought2.umd.edu
+Tue Oct 23 12:17:54 EDT 2018
+/lustre/lyx12311/epi_int_lite/runs/eccentricity/0.004
+JOBID 12271295
+JOB_NAME submit.csh
+SUBMIT_DIR /lustre/lyx12311/epi_int_lite/runs/eccentricity/0.004
+JOB_NODELIST compute-b20-46
+SUBMIT_HOST login-2.deepthought2.umd.edu
+JOB_NUM_NODES 1
+CPUS_ON_NODE 1
+NTASKS 1

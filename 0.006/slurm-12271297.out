@@ -1,0 +1,17 @@
+compute-b20-46.deepthought2.umd.edu
+Tue Oct 23 12:17:54 EDT 2018
+/lustre/lyx12311/epi_int_lite/runs/eccentricity/0.006
+JOBID 12271297
+JOB_NAME submit.csh
+SUBMIT_DIR /lustre/lyx12311/epi_int_lite/runs/eccentricity/0.006
+JOB_NODELIST compute-b20-46
+SUBMIT_HOST login-2.deepthought2.umd.edu
+JOB_NUM_NODES 1
+CPUS_ON_NODE 1
+NTASKS 1
+/lustre/lyx12311/epi_int_lite/runs/eccentricity/0.006/helper_fns.py:188: RuntimeWarning: invalid value encountered in sqrt
+  r = a/np.sqrt(1.0 + 2.0*e_cos_M)
+/lustre/lyx12311/epi_int_lite/runs/eccentricity/0.006/helper_fns.py:29: RuntimeWarning: invalid value encountered in greater
+  idx = angle > np.pi
+/lustre/lyx12311/epi_int_lite/runs/eccentricity/0.006/helper_fns.py:31: RuntimeWarning: invalid value encountered in less
+  idx = angle < -np.pi

@@ -1,0 +1,37 @@
+number_of_streamlines = 2
+particles_per_streamline = 31
+dt = 0.2
+timesteps_per_output =  12000
+total_number_of_outputs = 1000
+radial_width = 0.0005
+total_ring_mass = 1.5e-09
+ring gravitation constant = 1.0
+shear_viscosity = 1e-12
+Toomre's Q_ring = -1.0
+Rp = 0.5
+J2 = 0.01
+initial_orbits = {'adeda': 0.056575, 'shape': 'eccentric', 'e': 0.004}
+output_folder = output
+('this lambda-check should equal one = ', 1.0)
+evolving system...
+time = 120000.0    number of outputs = 50    number of orbits = 19098    eta (minutes) =  465
+time = 240000.0    number of outputs = 100    number of orbits = 38197    eta (minutes) =  441
+time = 360000.0    number of outputs = 150    number of orbits = 57295    eta (minutes) =  416
+time = 480000.0    number of outputs = 200    number of orbits = 76394    eta (minutes) =  391
+time = 600000.0    number of outputs = 250    number of orbits = 95492    eta (minutes) =  367
+time = 720000.0    number of outputs = 300    number of orbits = 114591    eta (minutes) =  342
+time = 840000.0    number of outputs = 350    number of orbits = 133690    eta (minutes) =  318
+time = 960000.0    number of outputs = 400    number of orbits = 152788    eta (minutes) =  294
+time = 1080000.0    number of outputs = 450    number of orbits = 171887    eta (minutes) =  269
+time = 1200000.0    number of outputs = 500    number of orbits = 190985    eta (minutes) =  245
+time = 1320000.0    number of outputs = 550    number of orbits = 210084    eta (minutes) =  220
+time = 1440000.0    number of outputs = 600    number of orbits = 229183    eta (minutes) =  196
+time = 1560000.0    number of outputs = 650    number of orbits = 248281    eta (minutes) =  171
+time = 1680000.0    number of outputs = 700    number of orbits = 267380    eta (minutes) =  147
+time = 1800000.0    number of outputs = 750    number of orbits = 286478    eta (minutes) =  122
+time = 1920000.0    number of outputs = 800    number of orbits = 305577    eta (minutes) =  98
+time = 2040000.0    number of outputs = 850    number of orbits = 324676    eta (minutes) =  74
+time = 2160000.0    number of outputs = 900    number of orbits = 343774    eta (minutes) =  49
+time = 2280000.0    number of outputs = 950    number of orbits = 362873    eta (minutes) =  24
+time = 2400000.0    number of outputs = 1000    number of orbits = 381971    eta (minutes) =  0
+execution time (minutes) =  493.430723202
